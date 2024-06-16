@@ -1,0 +1,25 @@
+.isOnline {
+    color: rgb(35, 135, 35);
+    font-size: 22px;
+    font-weight: 500;
+}
+.isOffline {
+    color: rgb(237, 61, 61);
+    font-size: 22px;
+    font-weight: 500;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+.image {
+    margin: 0;
+}
+
+.text {
+    text-align: center;
+    font-size: 28px;
+}
